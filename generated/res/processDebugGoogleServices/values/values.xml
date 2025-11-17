@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">590949101038</string>
+    <string name="google_api_key" translatable="false">AIzaSyBhB_CKwUBov3fX8jux6mzWjo5XcrhKnhs</string>
+    <string name="google_app_id" translatable="false">1:590949101038:android:db0799eac64812fd08f2ff</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBhB_CKwUBov3fX8jux6mzWjo5XcrhKnhs</string>
+    <string name="google_storage_bucket" translatable="false">heritagelens-2d1c0.firebasestorage.app</string>
+    <string name="project_id" translatable="false">heritagelens-2d1c0</string>
+</resources>
