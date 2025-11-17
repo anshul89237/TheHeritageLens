@@ -5,9 +5,13 @@ HeritageLens is an Android application developed in Kotlin that enables users to
 ✨ Features
 
 🏛️ Browse Monuments: Grid view of famous monuments with images and names.
-📍 Dynamic Map View: Interactive OpenStreetMap (OSMDroid) displaying all monuments as markers.
-🗺️ Marker Details: Clickable monument markers show location name and description.
+
+📍 nearby Monuments: To help locate nearby monuments of a place.
+
+🗺️ AI integration: To provide meaningful insights of a monument.
+
 📝 Monument Detail Pages: Each monument has a dedicated detail screen with image, description, and feedback.
+
 🚀 Tech Stack
 
 Language: Kotlin
